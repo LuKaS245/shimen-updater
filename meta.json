@@ -2,6 +2,16 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-   
+        ...
+        {
+            "id": "1.0.2",
+            "releasedAt": 1715013748502,
+            "updateType": incompatible,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://github.com/LuKaS245/shimen-modpack/releases/"
+                }
+            }
+        }
     ]
   }
